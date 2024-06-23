@@ -1,0 +1,30 @@
+{
+  "name": "part3_backend",
+  "version": "0.0.1",
+  "main": "node index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamysheva1723/FULLSTACK3.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Natalia Kamysheva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kamysheva1723/FULLSTACK3/issues"
+  },
+  "homepage": "https://github.com/Kamysheva1723/FULLSTACK3#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
